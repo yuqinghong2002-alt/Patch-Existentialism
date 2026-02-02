@@ -5,7 +5,7 @@ This paper proposes and systematically elaborates a new ontological stance—Pat
 By introducing cross-physical-cognitive concepts such as “delay,” “prediction error,” “thermaldissipation,” and “smoothing/friction,” this paper attempts to construct a unifi ed philosophicalframework capable of simultaneously explaining individual anxiety, technological alienation,and contemporary algorithmic governance. The article further clarifi es the theory’s falsifi ableboundaries and argues for its practical signifi cance as a “defensive philosophy” in the age ofAI.
 Keywords:
 Ontology; Consciousness; Information Integration; Prediction; Anxiety;
-
+License: This work is shared under a Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International (CC BY-NC-ND 4.0) license.
 
 存在补丁主义（Patch Existentialism）
 ——一种基于信息集成模型（IIM）的物理存在论
@@ -19,3 +19,4 @@ Ontology; Consciousness; Information Integration; Prediction; Anxiety;
 释个体焦虑、技术异化与当代算法治理的统一哲学框架。文章进一步明确该理论的可证伪边界，并论证其在 AI
 时代作为一种“防御性哲学”的现实意义。
 关键词：存在论；意识；信息集成；预测；焦虑；算法治理；AI 伦理
+License: This work is shared under a Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International (CC BY-NC-ND 4.0) license.
